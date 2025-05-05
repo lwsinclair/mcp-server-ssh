@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shaike1-mcp-server-ssh-badge.png)](https://mseep.ai/app/shaike1-mcp-server-ssh)
+
 # MCP SSH Server
 
 A powerful SSH server implementation for Model Context Protocol (MCP). This server enables secure remote command execution and file operations through SSH protocol, supporting both password and key-based authentication.
